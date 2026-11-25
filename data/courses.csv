@@ -1,0 +1,5 @@
+course_code,course_name,credits,semester,prerequisites
+CS101,Programming Fundamentals,4,1,
+CS102,Data Structures,4,2,CS101
+CS201,Algorithms,4,3,CS102
+CS202,Database Systems,3,3,CS101
